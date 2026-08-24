@@ -1,43 +1,58 @@
-<!-- Banner (replace URL with your own - I recommend using a Canva template) -->
-![Banner](https://via.placeholder.com/1280x640/1A1A1A/FFFFFF?text=Marian+Svitel+%7C+Code+%26+Marketing+Alchemist+🚀&style=flat-square)
+# Marian Svitel
 
-# 👋 Hi, I’m **Marian Svitel** 
+**Building small, reviewable, and security-conscious software experiments.**
 
-🚀 **Full-stack Developer & Marketing Strategist**  
-*"Combining the elegance of code with the efficiency of marketing solutions"*
+I am learning professional GitHub workflows by using them on real, deliberately
+small systems. My current focus is the intersection of GitHub, Python, and
+human-supervised AI.
 
-## 🌟 About Me
-- 💼 3 years of experience in hybrid development
-- 🧩 Specialization: **Web Applications × Marketing Automation**
-- 🌱 Currently learning: **Vue.js, Advanced SEO, Bubble.io**
-- ⚡ Fun fact: **My first "website" was an Excel sheet!**
-- 🤖 Interests: **Automation, content creation, SEO, low-code, and no-code solutions**
+I prefer evidence over long skill lists: an issue that defines the problem, a small
+pull request, tests that protect the behavior, and a written decision that explains
+the trade-off.
 
-## 🛠️ Tech Stack
-| Category          | Technologies                                                                                                                                                                                                                                                                 |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **💻 Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
-| **📈 Marketing**   | ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-0F0F0F?style=flat-square&logo=seo&logoColor=white) |
-| **🤖 Automation**  | ![Make.com](https://img.shields.io/badge/Make.com-000000?style=flat-square&logo=integromat&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-00A1DF?style=flat-square&logo=uipath&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white) |
-| **🌐 Low-code/No-code** | ![Mendix](https://img.shields.io/badge/Mendix-00A1DF?style=flat-square&logo=mendix&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white) ![Bubble](https://img.shields.io/badge/Bubble-000000?style=flat-square&logo=bubble&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white) ![Retool](https://img.shields.io/badge/Retool-000000?style=flat-square&logo=retool&logoColor=white) |
+## Current direction
 
-## 🚀 Projects
-| Project | Description | Category | Tech | 
-|---------|-------------|----------|------|
-| **[🎯 PHP Portfolio](https://github.com/...)** | Dynamic portfolio with an admin panel | Development | PHP, MySQL, JS |
-| **[📊 Marketing Automation](https://github.com/...)** | Campaign tracking system | Marketing | Google API, Python |
-| **[🌐 Webflow Landing](https://github.com/...)** | High-conversion landing page with A/B testing | Low-code | Webflow, GA4 |
-| **[🤖 Workflow Automation](https://github.com/...)** | Automated workflows using Make.com and Zapier | Automation | Make.com, Zapier, API Integrations |
+- professional Git and GitHub workflows: issues, Projects, branches, pull requests,
+  CI, and review;
+- Python applications with explicit data models and offline tests;
+- AI features where the model recommends and a human remains accountable;
+- security gates that separate “technically complete” from “safe to publish.”
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarianSvitel&theme=dark&background=1A1A1A&border=FFFFFF)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianSvitel&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+See **[NOW.md](NOW.md)** for the work currently in focus.
 
-![](https://visitor-badge.glitch.me/badge?page_id=MarianSvitel.MarianSvitel)
+## How I work
 
-## 📍 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mariansvitel)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:marian.svitel@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=google-chrome)](https://mariansvitel.com)
+1. Start private when the data, licenses, or security boundary are not yet proven.
+2. Define the problem and the non-goals before adding features.
+3. Keep changes small enough to review and reverse.
+4. Never store secrets in source code or Git history.
+5. Test representative failures, not only the happy path.
+6. Treat AI output as untrusted advice until a human reviews it.
+7. Publish a learning claim only with evidence.
 
-🔔 **Open to:** Creative projects combining technical and marketing expertise!
+The longer version lives in **[WORKING-PRINCIPLES.md](WORKING-PRINCIPLES.md)**.
+
+## Public Craft OS
+
+This profile is the first layer of a small public operating system for my work:
+
+| Area | Purpose |
+| --- | --- |
+| [Now](NOW.md) | What I am actively learning and building |
+| [Working principles](WORKING-PRINCIPLES.md) | How I make and review changes |
+| [Public Safety Gate](PUBLIC-SAFETY.md) | What must be true before work becomes public |
+| [Proof of Work](PROOF-OF-WORK.md) | Claims connected to concrete evidence |
+
+The system is intentionally compact. Public repositories should be useful,
+maintained, and safe—not a mirror of every unfinished experiment.
+
+## Selected evidence
+
+My active application and workflow experiments remain private while their safety
+gates are incomplete. Sanitized summaries and reusable templates will be published
+only after review. The current evidence catalog is maintained in
+**[PROOF-OF-WORK.md](PROOF-OF-WORK.md)**.
+
+---
+
+_Last reviewed: 2026-08-24._
