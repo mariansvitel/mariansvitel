@@ -17,10 +17,10 @@ a reviewed public artifact exists.
 
 | Capability being practiced | Evidence | Level | Next proof |
 | --- | --- | --- | --- |
-| Professional GitHub workflow | Multiple focused branches, pull requests, CI checks, and review gates used across private learning repositories | Private evidence | Publish a reusable repository template |
+| Professional GitHub workflow | [Craft Playbook](https://github.com/mariansvitel/craft-playbook), built and released through issues, focused branches, pull requests, and a recorded publication gate | Public reproducible | Publish a reusable secure repository template |
 | GitHub Projects design | Seven private planning systems for bugs, roadmap, ideas, learning, application planning, content, and a central craft lab | Private evidence | Publish a sanitized field and workflow guide |
 | Security-first AI integration | Typed AI bug triage, local redaction, synthetic evaluation cases, server-side secrets, and mandatory human review | Private evidence | Publish aggregate evaluation results after the Safety Gate |
-| Public documentation architecture | Profile hub, current-focus page, working principles, publication gate, and this evidence catalog | Public reproducible | Maintain the documents through reviewed changes |
+| Public documentation architecture | Profile hub, current-focus page, working principles, publication gate, this evidence catalog, and the reviewed [Craft Playbook](https://github.com/mariansvitel/craft-playbook) | Public reproducible | Maintain the documents through reviewed changes |
 
 ## Entry format for future evidence
 
