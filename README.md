@@ -48,11 +48,11 @@ maintained, and safe—not a mirror of every unfinished experiment.
 
 ## Selected evidence
 
-My active application and workflow experiments remain private while their safety
-gates are incomplete. Sanitized summaries and reusable templates will be published
-only after review. The current evidence catalog is maintained in
-**[PROOF-OF-WORK.md](PROOF-OF-WORK.md)**.
+The first reviewed public artifact is **[Craft Playbook](https://github.com/mariansvitel/craft-playbook)**,
+an evidence-led guide to safe GitHub and human-supervised AI workflows. Other active
+experiments remain private while their safety gates are incomplete. The evidence
+catalog is maintained in **[PROOF-OF-WORK.md](PROOF-OF-WORK.md)**.
 
 ---
 
-_Last reviewed: 2026-08-24._
+_Last reviewed: 2026-08-29._
